@@ -1,2 +1,6 @@
 chat-bot/brain/config.ini
 chat-bot/brain/api_response.txt
+.DS_Store
+chat-bot/brain/sample-prompt.txt
+chat-bot/brain/__pycache__/chat_gpt.cpython-38.pyc
+chat-bot/brain/__pycache__/scp_interface.cpython-38.pyc
